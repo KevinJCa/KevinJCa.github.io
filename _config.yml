@@ -1,6 +1,8 @@
-# site configuration
+n# site configuration
 
-theme: jekyll-theme-chirpy
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme 
 
 lang: en
 
@@ -10,39 +12,39 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 
 # main title
-title: Corey Goldberg
+title: Kevin Caballero Garcia
 
 # subtitle
 tagline: Blog
 
 # used by seo meta and the atom feed
-description: Blog by Corey Goldberg
+description: ePortfolio
 
 # protocol & hostname for your site (it does not end with a '/')
-url: https://cgoldberg.github.io
+url: https://KevinJCa.github.io
 
 author:
-  name: Corey Goldberg
+  name: Kevin Caballero Garcia
   # sets the `author.url` property. helps Google to disambiguate the correct author of articles
-  url: https://github.com/cgoldberg
+  url: https://github.com/KevinJCa
 
 # URL to a site-wide logo (e.g.: /assets/your-company-logo.png)
 #logo:
 
 github:
-  username: cgoldberg
+  username: KevinJCa
 
 #twitter:
 #  username: cgoldberg
 
 social:
   # displayed as the default author of the posts and the copyright owner in the footer
-  name: Corey Goldberg
+  name: Kevin Caballero
   #email: example@domain.com
   links:
     # first element serves as the copyright owner's link
-    - https://github.com/cgoldberg
-    - https://www.linkedin.com/in/cgoldberg
+    - https://github.com/KevinJCa
+    - https://linkedin.com/in/kevin-caballero-garcia-13a644260
     # uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://twitter.com/username
@@ -92,7 +94,7 @@ theme_mode: dark
 #cdn:
 
 # avatar on sidebar (supports local or CORS resources)
-avatar: /assets/img/corey_goldberg.jpg
+avatar: # URL
 
 # URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # it can be overridden by a customized `page.image` in front matter.
