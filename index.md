@@ -1,4 +1,5 @@
-# Professional Self-Assessment
+
+## Professional Self-Assessment
 
 My culmination of experiences with Computer Science across course work throughout my program began with a focus on theory and application of alogorithms using programming languages such as C++, C#, Java, Python, SQL, JavaScript, and MATLAB. Furthermore, I am proficient in HTML, XML, as well as CSS in terms of web development. In every programming language I've enforced the best programming practicies and principles that involve writing clean, simple, readable, and maintable code by eliminating repetition, providing sufficient commentation, enforcing modularity, consistent formatting, testing, as well as error-handling,  
 
@@ -9,8 +10,6 @@ With every bit of work I accomplished, I've gained a fundamental understanding o
 However, one of the most important concepts in software development is determined by the number of people that are placed to work on a project. Although I've spent most of my time within the program developing each assignment entirely on my own. I have also learned to develop collaboratively using agile methodologies to manage projects with an iterative and incremental approach that encourages collaboration, adaptability to change, and end-user feedback. As well as using a Scrum framework that prioritizes placing work into fixed-length instances known as sprints, with specific roles provided across the development team serving unique purpose to guide the group(s) for high-quality and consistent deliverables.
 
 As an upcoming computing professional I've understood the importance of developing code while enforcing fundamental ethical principles by practicing ethical decision-making in all of my work, being concious of the skills we've acquired and use it as a means to positively contribute to society's needs and overall human well-being without causing any extent of genuine harm. To always act professionaly, maintain an open-mind, and remain mindful of the very impact we provide as computing professionals.
-
-
 
 ## Informal Code Review
 
