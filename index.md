@@ -4,7 +4,7 @@ layout: default
 
 # Code Review
 
-{% include youtubePlayer.html id="aK7VsOVzeOM" %"}
+{% include youtubePlayer.html id="aK7VsOVzeOM" %}
 
 # Software Design and Engineering
 
