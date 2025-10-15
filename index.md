@@ -1,6 +1,8 @@
-# Code Review
+# Informal Code Review
 
 [![Code Review](https://img.youtube.com/vi/aK7VsOVzeOM/maxresdefault.jpg)](https://youtu.be/aK7VsOVzeOM)
+
+[Original Artifact Files - Static TOWN Application](https://github.com/KevinJCa/CS-499/tree/main/town-app)
 
 # Software Design and Engineering
 
