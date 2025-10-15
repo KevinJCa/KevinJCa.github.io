@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Code Review
 
 {% include youtubePlayer.html id="aK7VsOVzeOM" %}
