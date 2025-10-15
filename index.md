@@ -1,6 +1,6 @@
 # Code Review
 
-{% include youtubePlayer.html id="aK7VsOVzeOM" %}
+[![Code Review](https://img.youtube.com/vi/aK7VsOVzeOM/maxresdefault.jpg)](https://youtu.be/aK7VsOVzeOM)
 
 # Software Design and Engineering
 
