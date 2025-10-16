@@ -29,7 +29,7 @@ This initial enhancement fulfills the first category, software design and engine
   
   Previously, I’ve had experience developing a full MEAN stack application for a theoretical travel booking site. Enhancing and modifying my chosen artifact has helped me reinforce everything I’ve already gone over from creating and initializing a Node Express web application configured with the Handlebars (HBS) view engine installing all the necessary Node packages. Establishing an MVC routing architecture where all the routes, controllers, and handlebars views were set up to dynamically generate the application’s content. As well as converting all the HTML files to utilize JSON to format and display information, this is where I ran into a bit of trouble when I had to replace all of the static HTML list entries for the available listed meals on the menu for the restaurant, with an #each directive using JSON that would create a loop for each object. This is because it was the first time I had to use an array to render the data, due to three different categories of meals that needed to be listed separately. Within the HTML handlebar template containing the section that would format the list of meals, I had to initialize the JSON file containing the structured data containing the meal information and retrieve the specific index containing the list of meals appropriate for the type of meal to be displayed. 
 
-[EnhancmentOne](https://github.com/KevinJCa/CS-499/tree/EnhancementOneProgress/)
+[Enhancment One](https://github.com/KevinJCa/CS-499/tree/EnhancementOneProgress/)
 
 ## Algorithms and Data Structures
 
