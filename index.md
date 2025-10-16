@@ -1,8 +1,4 @@
-
 ---
-layout: default
----
-
 ## Professional Self-Assessment
 
 My culmination of experiences with Computer Science across course work throughout my program began with a focus on theory and application of algorithms using programming languages such as C++, C#, Java, Python, SQL, JavaScript, and MATLAB. Furthermore, I am proficient in HTML, XML, as well as CSS in terms of web development. In every programming language I've enforced the best programming practices and principles that involve writing clean, simple, secure, readable, and maintainable code by eliminating repetition, providing sufficient documentation, enforcing modularity, consistent formatting, testing, as well as error-handling.
@@ -48,3 +44,5 @@ This third and last enhancement for the artifact focuses on satisfying the third
 During my database enhancement process, I have reinforced my skills to integrate a NoSQL database to satisfy a full MEAN stack application starting with installing Mongoose as the NodeJS package that enables interaction with a MongoDB database. Followed by creating a model according to an MVC (Model-View-Controller) architecture that would contain a schema that would structure the menu’s data to organize the stored information representing all the meals provided by the restaurant. To establish a connection to the database, I had to place seeded JSON data into the database to provide another method of creating, modifying, or removing information using the MongoDB compass GUI. Since there are three types of meals represented on the site being, breakfast, lunch, and dinner. I came across an issue establishing the schema and picking the best data structure to organize all the meals without jeopardizing the site’s ability to retrieve the information or affect the administrative end of the single page application. I had to decide whether to use three different arrays representing each type of meal containing meal objects or using one array to hold all the available meal items. I decided on using a singular array to store all of the meal objects to reduce the complexity of my artifact to meet the requirements and deadlines while leaving room for future adaptations to integrate more features enabling the categorization of the type of meal being added, modified, or removed on the menu. 
 
 [Enhancement Three](https://github.com/KevinJCa/CS-499/tree/EnhancementThreeProgress/)
+
+---
