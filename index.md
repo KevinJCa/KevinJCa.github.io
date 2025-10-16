@@ -1,5 +1,4 @@
 ---
----
 ## Professional Self-Assessment
 
 My culmination of experiences with Computer Science across course work throughout my program began with a focus on theory and application of algorithms using programming languages such as C++, C#, Java, Python, SQL, JavaScript, and MATLAB. Furthermore, I am proficient in HTML, XML, as well as CSS in terms of web development. In every programming language I've enforced the best programming practices and principles that involve writing clean, simple, secure, readable, and maintainable code by eliminating repetition, providing sufficient documentation, enforcing modularity, consistent formatting, testing, as well as error-handling.
